@@ -6,7 +6,7 @@ Bem-vindo ao meu projeto pessoal, o meu portfólio! Aqui, quero compartilhar um 
 
 # Tecnologias 🕹️
 <p>
-JavaScript, HTML5, CSS3, MaterialUI e Node.
+JavaScript, CSS3, MaterialUI, React JS e Vite.
 </p>
 
 
