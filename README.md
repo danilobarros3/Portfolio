@@ -20,4 +20,8 @@ npm install
 ```bash
 npm run dev
 ```
+# Clone do projeto 🖨️
+```bash
+https://github.com/danilobarros3/Portfolio.git
+```
 
