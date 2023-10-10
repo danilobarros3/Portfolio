@@ -5,9 +5,12 @@ Bem-vindo ao meu projeto pessoal, o meu portfólio! Aqui, quero compartilhar um 
 </p>
 
 # Instale as dependências
-npm install 
+```bash
+npm install
+``` 
 
 # Inicie a aplicação
-
+```bash
 npm run dev
+```
 
