@@ -16,7 +16,7 @@ JavaScript, CSS3, MaterialUI, React JS e Vite.
 npm install
 ``` 
 
-# Inicie a aplicação 🔛
+# Inicie a aplicação 💡
 ```bash
 npm run dev
 ```
