@@ -5,13 +5,11 @@ Bem-vindo ao meu projeto pessoal, o meu portfólio! Aqui, quero compartilhar um 
 </p>
 
 # Tecnologias 🕹️
-<p> 
-JavaScript
-HTML
-CSS
-MaterialUI
-Node
+<p>
+JavaScript, HTML5, CSS3, MaterialUI e Node.
 </p>
+
+
 
 # Instale as dependências ✅
 ```bash
