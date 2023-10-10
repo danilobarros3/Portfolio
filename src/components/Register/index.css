@@ -1,0 +1,35 @@
+.form {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+.form-input {
+    display: flex;
+    justify-content: center;
+    gap: 37px;
+}
+
+.button-submit {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 160px;
+    margin-top: 60px;
+}
+
+.message {
+    text-align: center;
+}
+
+@media (max-width: 900px) {
+    .form-input,
+    .message {
+        text-align: center;
+        display: block;
+        padding: 10px 0;
+    }
+
+    .button-submit {
+        margin-bottom: 80px;
+    }
+}

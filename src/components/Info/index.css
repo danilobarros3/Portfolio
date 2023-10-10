@@ -1,0 +1,44 @@
+.info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 48px;
+  font-family: sans-serif;
+}
+
+.subtitle {
+  display: block;
+  margin-bottom: 30px;
+  flex-direction: column;
+  font-size: 18px;
+  color: #828282;
+}
+
+.section-name h1,
+.section-name span {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.section-image img {
+  border-radius: 50%;
+  max-width: 450px;
+  border: 10px solid#27AE60;
+}
+
+.buttons-container {
+  display: flex;
+}
+
+@media (max-width: 900px) {
+  .info,
+  .buttons-container {
+    text-align: center;
+    display: block;
+  }
+
+  .section-image img {
+    max-width: 400px;
+    margin-top: 20px;
+  }
+}
