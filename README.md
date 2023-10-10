@@ -6,9 +6,8 @@ Bem-vindo ao meu projeto pessoal, o meu portfólio! Aqui, quero compartilhar um 
 
 # Instale as dependências
 npm install 
-```
 
-### Inicie a aplicação
-```bash
+# Inicie a aplicação
+
 npm run dev
-```
+
