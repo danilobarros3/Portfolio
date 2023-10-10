@@ -25,7 +25,7 @@
 
 }
 
-.icons a:visited {
+.icons a, .icons a:visited {
     color: #27AE60;
 }
 
